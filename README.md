@@ -3,6 +3,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
+### `Visit cliptube website`
+[cliptube](https://cliptube.vercel.app/)
 
 ### `To Start the website on your local host Follow the following steps:`
 1: download the github repository and extract the files.<br/>
