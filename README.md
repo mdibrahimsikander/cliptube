@@ -5,10 +5,10 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 ### `To Start the website on your local host Follow the following steps:`
-1: download the github repository and extract the files.
-2: open the folder in vs code
-3: Install React Dependencies (npm install)
-4: Start React App (npm start)
+1: download the github repository and extract the files.<br/>
+2: open the folder in vs code.<br/>
+3: Install React Dependencies (npm install).<br/>
+4: Start React App (npm start).
 
 In the project directory, you can run:
 
